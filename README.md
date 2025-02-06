@@ -12,7 +12,7 @@
 </p>
 
 <div align="center">
-  <a href="linkedIn.com/in/tamarafelix" target="_blank"><img src="https://img.shields.io/badge/-linkedin-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"</a>
+  <a href="linkedin.com/in/tamarafelix" target="_blank"><img src="https://img.shields.io/badge/-linkedin-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"</a>
 </div>
   
 
