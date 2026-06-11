@@ -17,7 +17,7 @@
         ✨ <b>Olá! Eu sou a Tâmara Felix</b>, desenvolvedora Backend júnior em evolução, com foco em .NET e SQL Server.
       </p>
       <p align="left">
-        Minha trajetória na tecnologia começou como <b>Aprendiz de QA Técnico</b>, onde atuei diretamente no ciclo de desenvolvimento, realizando testes unitários com <b>Kotlin</b> e colaborando no Front-end com <b>Angular</b>. 
+        Minha trajetória na tecnologia começou como QA Técnico</b>, onde atuei diretamente no ciclo de desenvolvimento, realizando testes unitários com <b>Kotlin</b> e colaborando no Front-end com <b>Angular</b>. 
       </p>
       <p align="left">
         Tenho experiência com testes manuais, funcionais e validação de APIs com <b>Postman</b>. Essa bagagem me proporcionou uma visão mais ampla do desenvolvimento, ajudando na construção de aplicações Backend com foco em qualidade, organização e boas práticas.
