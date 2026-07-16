@@ -1,9 +1,9 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=006AFF&height=140&section=header&text=Tâmara%20Felix&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Desenvolvedora%20Backend%20Júnior%20em%20evolução%20•%20.NET%20|%20C%23%20|%20SQL%20•%20Brasil,%20SP&descAlignY=58&descSize=18"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=006AFF&height=140&section=header&text=T%C3%A2mara%20Felix&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Desenvolvedora%20.NET%20e%20Angular%20%E2%80%A2%20SQL%20Server%20%E2%80%A2%20Brasil%2C%20SP&descAlignY=58&descSize=18"/>
 
 <br/>
 
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?color=006AFF&size=26&center=true&vCenter=true&width=1000&lines=Olá!+Eu+sou+a+Tâmara+Felix+👋;Desenvolvedora+Backend+Júnior+em+evolução+💙;Focada+em+.NET,+C%23+e+SQL;Construindo+APIs+e+evoluindo+todos+os+dias+🚀" />
+<img src="https://readme-typing-svg.herokuapp.com/?color=006AFF&size=26&center=true&vCenter=true&width=1000&lines=Olá!+Eu+sou+a+Tâmara+Felix+👋;Desenvolvedora+.NET+e+Angular+💻;Focada+em+construir+APIs+REST+robustas+⚙️;Evoluindo+todos+os+dias+rumo+ao+Full+Stack+🚀" />
 </div>
 
 ---
@@ -14,23 +14,23 @@
   <tr>
     <td width="55%" valign="top">
       <p align="left">
-        ✨ <b>Olá! Eu sou a Tâmara Felix</b>, desenvolvedora Backend júnior em evolução, com foco em .NET e SQL Server.
+        ✨ <b>Olá! Eu sou a Tâmara Felix</b>. Sou desenvolvedora focada em Back-end .Net mas com uma bagagem bem forte em Front-end e qualidade de código.
       </p>
       <p align="left">
-        Minha trajetória na tecnologia começou em um projeto do setor bancário, onde atuei como QA Técnico e participei diretamente do ciclo de desenvolvimento. Durante essa experiência, realizei testes unitários com Kotlin, validação de APIs com Postman e também colaborei no desenvolvimento Front-end utilizando Angular.
+       Minha jornada na tecnologia começou no setor bancário. Embora estivesse na área de qualidade, passei a maior parte do tempo codando: atuei direto no desenvolvimento Front-end com Angular, onde também fiz bastante teste unitário e escrevi muito teste unitário em Kotlin.
       </p>
       <p align="left">
-        Tenho experiência com testes manuais, funcionais e validação de APIs, além de vivência em ambientes corporativos que exigem qualidade, organização e atenção aos detalhes. Essa experiência me proporcionou uma visão mais ampla do desenvolvimento de software e fortaleceu meu interesse pela área de Back-end.
+        Colocar a mão na massa em um ambiente corporativo grande me trouxe uma visão muito clara de arquitetura e, claro, me ensinou a ligar para os mínimos detalhes do software.
       </p>
       <p align="left">
-        Atualmente estou aprofundando meus conhecimentos em Back-end, buscando evoluir minhas habilidades na construção de APIs e no desenvolvimento com C#, .NET e SQL Server, sempre seguindo boas práticas e focando na qualidade das aplicações.
+        Hoje, meu grande objetivo é evoluir como desenvolvedora Fullstack .NET e Angular. Para isso, estou aprofundando meus estudos na construção de APIs REST robustas com C# e SQL Server enquanto fortaleço minha base de JavaScript para conectar todo esse ecossistema de ponta a ponta.
       </p>
       <p align="left">
-        📍 <b>Localização:</b> São Paulo, Brasil 🇧🇷<br>
+        📍 <b>Localização:</b> São Paulo, Brasil <br>
         🎓 <b>Formação:</b> Análise e Desenvolvimento de Sistemas<br>
-        🎯 <b>Objetivo:</b> Desenvolvedora Backend .NET<br>
+        🎯 <b>Objetivo:</b> Desenvolvedora FullStack .NET e Angular<br>
         🚀 <b>Stack Principal:</b> C#, .NET 8 e SQL Server<br>
-        💡 <b>Foco atual:</b> APIs REST e boas práticas de desenvolvimento
+        💡 <b>Foco atual:</b> APIs REST com .NET e fortalecendo a base Front End (JS/Angular)
       </p>
     </td>
     <td width="45%" valign="center">
